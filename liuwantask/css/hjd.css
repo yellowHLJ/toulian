@@ -1,0 +1,427 @@
+body{
+	/*width: 2000px;*/
+	background-color: #fff;
+	min-width: 1000px
+}
+/*页面头部*/
+#hjd{
+	/*height: 113px;*/
+	width: 1000px;
+	/*background-color: #ccc;*/
+	margin:0 auto;
+	overflow: hidden;
+}
+.hjd1{
+	margin-top: 13px;
+	margin-bottom: 9px;
+	float: left;
+}
+.hjd2{
+	float: right;
+	font-size: 14px;
+	overflow: hidden;
+	padding-right: 21px;
+	padding-top: 15px;
+}
+.hjd2 img{
+	vertical-align: bottom;
+}
+.hjd3{
+	margin-right: 5px;
+}
+.hjd4{
+	color:#ffa726;
+	padding-right: 14px;
+	border-right:2px solid #3c3c3c;
+}
+.hjd5{
+	color: #8f8f8f;
+	border-right:2px solid #3c3c3c;
+	padding-right: 15px;
+	padding-left: 12px;
+}
+.hjd9{
+	margin-left: 16px;
+}
+.hjd6{
+	color: #3c3c3c;
+	padding-left: 5px;
+	padding-right: 15px;
+
+}
+.hjd7{
+	width: 152px;
+	height: 26px;
+	border:1px solid #3c3c3c;
+	float: right;
+}
+.hjd8{
+	height: 28px;
+	width: 28px;
+	border:1px solid #3c3c3c;
+	border-left:0;
+	border-top-right-radius: 8px;
+	border-bottom-right-radius: 8px;
+	background: url(../img/h3.png) center center no-repeat;
+	float: right;
+}
+.hjd10{
+	float: left;
+	word-spacing: 35px;
+	font-size: 18px;
+	line-height: 24px;
+
+	padding-left: 56px;
+	padding-top: 36px;
+	padding-bottom: 10px;
+}
+.hjd10 img{
+	vertical-align: bottom;
+}
+.hjd10 a{
+	color: #3c3c3c;
+}
+.hjd10 a:hover{
+	color: #176fbb;
+}
+/*蓝线*/
+.hjd11{
+	border-bottom: 4px solid #176fbb;
+}
+/*中间部分*/
+#hmb{
+	width: 1000px;
+	margin:0 auto;
+}
+/*中间第一块*/
+.hjd12{
+
+	font-size: 14px;
+	color: #3c3c3c;
+	overflow: hidden;
+}
+.hjd13{
+	padding-top: 20px;
+	padding-bottom: 16px;
+	line-height: 14px;
+	letter-spacing:2px; 
+}
+.hjd14,.hjd18,.hjd19{
+	padding-top: 13px;
+	padding-bottom: 15px;
+	line-height: 18px;
+}
+.hjd14,.hjd18{
+	border-bottom:2px dashed #6e6e6e;
+}
+.hjd15{
+	font-size:18px;
+	padding-right: 67px;
+}
+.hjd16{
+	font-size: 16px;
+	padding-right: 55px;
+}
+.hjd14 .hjd16{
+	padding-right: 33px;
+}
+.hjd17{
+	color: #ffa000;
+}
+.hjd20{
+	border:2px solid #ffa000;
+	border-radius: 5px;
+	padding: 1px 19px;
+}
+.hjd21{
+	padding-left: 74px;
+}
+.hjd22,.hjd23,.hjd21{
+	padding-right: 92px;
+}
+.hjd30,.hjd24{
+	padding-right: 80px;
+}
+.hjd26{
+	margin-left: 55px;
+}
+.hjd27{
+	margin-left: 30px;
+}
+.hjd28{
+	margin-left: 25px;
+}
+.hjd29{
+	margin-left: 13px;
+}
+.hjd19{
+	border-bottom: 2px solid #6e6e6e;
+	width: 852px;
+	float: left;
+}
+.hjd31{
+	float: right;
+	font-size: 16px;
+	color: #6e6e6e;
+	text-decoration: underline;
+	border:0;
+	background-color: #fff;
+	padding-right: 22px;
+	padding-top: 31px;
+}
+/*第二块黄色横条*/
+.hjd32{
+	/*height: 38px;*/
+	background-color: #ffa000;
+	margin-top: 29px;
+	margin-bottom: 30px;
+	overflow: hidden;
+	color: #fff;
+}
+.hjd33,.hjd34{
+	float: left;
+	font-size: 18px;
+	line-height: 18px;
+	padding:10px 32px 10px 34px;
+}
+.hjd32 .hjd34{
+	padding-left: 24px;
+	padding-right: 42px;
+	background: #b46400 url(../img/h6.png) 70% 50% no-repeat;
+}
+.hjd35{
+	float: right;
+	font-size: 14px;
+	line-height: 14px;
+	padding:12px 22px 12px 0;
+}
+/*酒店介绍1*/
+.hjd36{
+	height: 220px;
+	overflow: hidden;
+	background-color: #f0f0f0;
+}
+.hjd39{
+	float: left;
+}
+.hjd37{
+	float: right;
+	width: 658px;
+}
+.hjd38{
+	font-size: 14px;
+	color: #4e4e4e;
+	border-bottom: 1px dashed #898989;
+	overflow: hidden;
+}
+.hjd40,.hjd41{
+	float: left;
+}
+.hjd45,.hjd42,.hjd43,.hjd44{
+	float: right;
+}
+.hjd45,.hjd43,.hjd40{
+	line-height: 16px;
+}
+.hjd40{
+	font-size: 16px;
+
+	color: #3c3c3c;
+	padding:13px 19px 10px 0;
+}
+.hjd41{
+	/*padding-bottom: 9px;*/
+	padding-top: 11px;
+}
+.hjd45,.hjd43{
+	padding:12px 21px 11px 5px ;
+}
+.hjd42,.hjd44{
+	padding:10px 0 ;
+}
+.hjd46{ 
+	word-spacing:20px;
+}
+.hjd47,.hjd48{
+	padding-top: 18px;
+}
+.hjd50{
+	padding-top: 30px;
+	padding-bottom: 40px;
+}
+.hjd49{ 
+}
+.hjd51{
+	padding-left: 65px;
+	padding-top: 5px;
+}
+.hjd50 img{
+	vertical-align: middle;
+}
+.hjd52{
+	padding-right: 20px;
+}
+/*酒店配置 */
+.hjd53{
+	height: 408px;
+	margin-top: 19px;
+	font-size: 14px;
+	color: #3c3c3c;
+
+}
+.hjd54{
+	/*height: 30px;*/
+	font-size: 16px;
+	background-color: #eee;
+	color: #6e6e6e;
+	overflow: hidden;
+}
+.hjd54 span{
+	border-right: 1px solid #fff;
+	line-height: 30px;
+	padding-left: 30px;
+	padding-right: 30px;
+	float: left;
+}
+.hjd55{
+	margin-left: 257px;
+	border-left: 1px solid #fff;
+}
+.hjd56{
+	overflow: hidden;
+	border-bottom: 1px dashed #898989; 
+}
+.hjd56 img,.hjd56 span,.hjd56 a{
+	float: left;
+}
+.hjd56 img{
+	margin:15px 29px 14px 0;
+}
+.hjd57{
+	padding:85px 0px; 
+	border-left:1px solid #c8c8c8;
+	width: 92px;
+	text-align: center; 
+}
+.hjd58{
+	padding:85px 32px; 
+}
+.hjd57,.hjd58,.hjd59,.hjd60,.hjd61,.hjd56,.hjd54{
+	border-right:1px solid #c8c8c8;
+}
+.hjd59{
+	padding:85px 26px; 
+	text-decoration: line-through;
+}
+.hjd60{
+	padding:79px 12px; 
+	color: #cc0000;
+	font-size: 24px;
+}
+.hjd61{
+	margin:82px 41px;
+	width: 100px;
+	line-height: 26px;
+	text-align: center;
+	font-size: 14px;
+	border:0;
+	border-radius: 5px;
+	color: #fff;
+	word-spacing: 10px;
+	background-color: #ffa000;
+}
+.hjd62{
+	border-bottom: 1px solid #898989;
+}
+/*黄线*/
+.hjd63{
+	border-bottom: 1px solid #ffa000;
+	margin-top: 23px;
+	margin-bottom: 26px;
+}
+/*页码*/
+.hjd64{
+	font-size: 12px;
+	color: #3c3c3c;
+	border-bottom: 1px solid #929292;
+	text-align: center;
+	overflow: hidden;
+	margin-bottom: 30px;
+}
+.hjd66 span,.hjd66 img{
+	float: left;
+	padding-right:5px;
+	padding-left: 5px; 
+}
+.hjd66 img{
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+.hjd66 {
+	overflow: hidden;
+	width:272px;
+	margin:20px auto 23px;
+	line-height: 20px;
+}
+.hjd66 .hjd65{
+	background-color: #6e6e6e;
+	width: 30px;
+	height: 20px;
+	padding:0;
+}
+/*底部*/
+.hjd67{
+	color: #fff;
+	background-color: #023c4d;
+}
+.hjd68{
+	width: 769px;
+	margin:0 auto;
+	overflow: hidden;
+	padding-top: 12px;
+	padding-bottom: 22px;
+}
+.hjd68 ul{
+	float: left;
+}
+.hjd69{
+	font-size: 18px;
+	line-height: 24px;
+}
+.hjd70{
+	font-size: 14px;
+	line-height: 28px;
+}
+.hjd71{
+	margin-right: 74px;
+}
+.hjd71 img{
+	margin-top: 10px;
+}
+.hjd72{
+	font-size: 28px;
+	line-height: 28px;
+}
+.hjd73{
+	font-size: 18px;
+	line-height: 32px;
+}
+.hjd68 input{
+	width: 130px;
+	height: 26px;
+	border:0;
+	border-radius: 5px;
+	background-color: #fff;
+	color:#3c3c3c;
+	text-align: center;
+	margin-top: 15px;
+}
+.hjd75{
+	padding-top: 10px;
+}
+.hjd74{
+	border-top: 1px solid #fff;
+	text-align: center;
+	font-size: 14px;
+	line-height: 64px;
+}

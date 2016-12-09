@@ -1,0 +1,287 @@
+/*主体部分*/
+#hyx{
+	width: 1000px;
+	margin:0 auto;
+}
+/*头部标题*/
+.hyx1{
+	font-size: 14px;
+	line-height: 14px;
+	color: #3c3c3c;
+	padding-top: 20px;
+}
+.hyx2{
+	overflow: hidden;
+	border-bottom: 1px solid #3c3c3c;
+}
+.hyx2 .hyx3{
+	float: left;
+	font-size: 28px;
+	color: #3c3c3c;
+	padding-bottom: 15px;
+	padding-top:26px; 
+}
+.hyx2 li{
+	float: right;
+}
+.hyx2 img{
+	border:0;
+}
+.hyx4{
+	padding: 33px 20px 19px 0px;
+}
+.hyx5{
+	padding: 36px 20px 22px 0px;
+}
+.hyx6{
+	font-size: 14px;
+	color: #3c3c3c;
+	padding: 35px 15px 24px 35px;
+}
+.hyx7,.hyx8,.hyx9{
+	color: #6e6e6e;
+	padding-left: 25px;
+}
+.hyx7{
+	background: url(../img/h40.png) 5px 42px no-repeat;
+	padding: 37px 0px 25px 25px;
+}
+.hyx8{
+	background: url(../img/h39.png) 5px 42px no-repeat;
+	padding: 37px 0px 25px 25px;
+	margin-right: 15px;
+}
+.hyx9{
+	background: url(../img/h75.png) 5px 42px no-repeat;
+	padding: 37px 0px 25px 35px;
+	margin-right: 15px;
+}
+/*主要内容*/
+.hyx10{
+	overflow: hidden;
+	padding-top: 20px;
+}
+/*左浮动*/
+.hyx11{
+	width: 700px;
+	float: left;
+}
+.hyx17{
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+.hyx13,.hyx14{
+	float: left;
+}
+.hyx13 img{
+	display: block;
+}
+.hyx14{
+	font-size: 14px;
+	color: #3c3c3c;
+	padding-top: 31px;
+	padding-left: 39px;
+}
+.hyx15,.hyx16{
+	float: right;
+	padding:4px 10px 3px 34px;
+	color: #6e6e6e;
+	border:1px solid #6e6e6e;
+	border-radius: 5px;
+	margin-top: 25px;
+}
+.hyx15{
+	background: url(../img/h10.png) 9px center no-repeat;
+	margin-left: 15px;
+}
+.hyx16{
+	background: url(../img/h80.png) 9px center no-repeat;
+}
+/*表框*/
+.hyx18{
+	border:1px solid #c8c8c8;
+}
+.hyx19{
+	overflow: hidden;
+	color: #3c3c3c;
+	line-height: 36px;
+	border-bottom: 1px solid #c8c8c8;
+}
+.hyx19 li{
+	float: left;
+	font-size: 14px;
+}
+.hyx19 .hyx23{
+	float: right;
+	margin-right: 19px;
+}
+.hyx20{
+	color: #1f71b8;
+}
+.hyx21{
+	color: #cc0000;
+}
+.hyx22{
+	width: 114px;
+	height: 30px;
+	background-color: #ffa000;
+	color: #fff;
+	font-size: 16px;
+	border:0;
+	border-radius: 5px;
+	font-family: "微软雅黑";
+}
+.hyx24{
+	margin-left: 19px;
+}
+.hyx25{
+	margin-left:60px;
+}
+/*前言*/
+.hyx26{
+	font-size: 14px;
+	border-bottom: 1px dashed #454545;
+	padding-bottom: 50px;
+}
+.hyx27{
+	color: #51b23e;
+	line-height: 14px;
+	padding-top: 20px;
+}
+.hyx28{
+	padding-right: 19px;
+	padding-left: 19px; 
+}
+.hyx29{
+	text-indent: 2em;
+	color: #3c3c3c;
+	line-height: 20px;
+	padding-top: 11px;
+	padding-bottom: 68px;
+}
+.hyx30{
+	overflow: hidden;
+}
+.hyx30 span{
+	float: left;
+}
+.hyx31{
+	height: 29px;
+	width: 29px;
+	background: url(../img/h83.png) left center no-repeat;
+}
+.hyx32{
+	width: 14px;
+	height: 29px;
+	background: url(../img/h85.png) left center no-repeat;
+}
+.hyx33{
+	color: #646464;
+	padding:5px 5px 5px 13px;
+	background: url(../img/h86.png) 3px center no-repeat;
+}
+.hyx34{
+	width: 40px;
+	height: 29px;
+	background: url(../img/h85.png) left center repeat-x;
+}
+.hyx35{
+	padding-left: 40px;
+	background:url(../img/h84.png) 10px center no-repeat;
+}
+.hyx36{
+	width: 21px;
+	height: 29px;
+	background: url(../img/h85.png) left center no-repeat;
+}
+.hyx37{
+	color: #6e6e6e;
+	font-size: 14px;
+	overflow: hidden;
+	padding-top: 5px;
+}
+.hyx37 ol{
+	float: left;
+	line-height: 24px;
+}
+.hyx38{
+	margin-left: 46px;
+}
+.hyx39{
+	margin-left: 36px;
+}
+.hyx43{
+	margin-left: 22px;
+}
+.hyx40{
+	margin-left: 21px;
+}
+.hyx41{
+	margin-left: 23px;
+}
+.hyx42{
+	margin-left: 21px;
+}
+.hyx45{
+	line-height: 14px;
+	padding-top: 5px;
+}
+.hyx44{
+	line-height: 10px;
+}
+/*day1*/
+.hyx46{
+	font-size: 14px;
+	color: #3c3c3c;
+	padding-top: 26px;
+	padding-left: 19px;
+	padding-bottom: 29px;
+}
+.hyx47{
+	color: #51b23e;
+}
+.hyx48{
+	font-size: 22px;
+	margin-right: 26px;
+}
+.hyx49{
+	margin-right: 26px;
+	margin-left: 24px;
+}
+.hyx50{
+	margin-left: 26px;
+	margin-top: 12px;
+	border-left: 1px solid #51b23e;
+	padding-left: 55px;
+}
+.hyx51{
+	line-height: 20px;
+	margin-bottom: 20px;
+}
+.hyx52{
+	width: 564px;
+	height: 401px;
+	background: url(../img/h82.png) left top no-repeat;
+}
+.hyx53{
+	background: url(../img/h82.png) left 50% no-repeat;
+}
+.hyx54{
+	line-height: 90px;
+}
+.hyx55{
+	background: url(../img/h82.png) left 100% no-repeat;
+}
+.hjx34 .hyx56{
+	background-color: #51b23e;
+}
+
+
+
+
+
+/*右浮动*/
+.hyx12{
+	width: 270px;
+	float: right;
+}

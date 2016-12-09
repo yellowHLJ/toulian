@@ -1,0 +1,163 @@
+
+.Dbsl{
+	width: 1000px;
+	margin:20px auto;
+	font-size: 14px;
+}
+.DDT1{
+	height: 349px;
+	background: url(img/伴手礼/bsl1.jpg);
+	background-repeat: no-repeat;
+	background-position: center center; 
+}
+.DSZ{
+	margin: 34px auto;
+	width:160px;
+}
+.DSZs{
+	padding-left: 20px;
+	font-size: 30px;
+	color: #cc0000;
+}
+.DStuz{
+	width: 1000px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.Dk1{
+	float: left;
+	margin-bottom: 30px;
+	position: relative;
+}
+.Dk1yy{
+	width: 314px;
+	height: 225px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background: #000;
+	opacity: 0.7;
+}
+.d1k1y1{
+	position: absolute;
+	top: 30px;
+	left: 85px;
+	left: center;
+}
+.DIi2,.DIi3{
+	vertical-align: middle;
+}
+.DIi3{
+	margin-left: 20px;
+}
+.D1168{
+	color: white;
+	margin-left: 10px;
+	font-size: 12px;
+}
+.d1k1y2{
+	position: absolute;
+	top: 60px;
+	left:55px;
+	color:white;
+	font-size: 16px;
+	font-weight: bold;
+}
+.d1k1y3{
+	position: absolute;
+	top:100px;
+	left:55px; 
+	color:white;
+	font-size: 14px;
+}
+.d1k1y4{
+	position: absolute;
+	bottom:85px;
+	left:85px; 
+	color:white;
+	font-size: 14px;
+}
+.d1k1y5{
+	position: absolute;
+	bottom:30px;
+	left:140px; 
+	z-index: 1;
+}
+.d1k1y6{
+	position: absolute;
+	bottom: 35px;
+	left: 20px;
+	z-index: 2;
+}
+.Dk2{
+	float: left;
+	margin-bottom: 30px;
+	margin-left: 30px;
+	position: relative;
+}
+.Dk2f{
+	position: absolute;
+	bottom: 0;
+	height: 30px;
+	width: 314px;
+	background: #000;
+	opacity: 0.5;
+	z-index: 1;
+}
+.Dfls,.Dfls2,.Dfls3{
+	position: absolute;
+	bottom: 5px;
+	color: white;
+	font-size: 16px;
+	z-index: 2;
+}
+.Dfls{
+	right: 130px;
+}
+.Dfls2{
+	right: 60px;
+}
+.Dfls3{
+	right: 140px;
+}
+.Dk3{
+	float: right;
+	margin-bottom: 32px;
+	position: relative;
+}
+.Dk4{
+	float: left;
+	position: relative;
+}
+.Dk5{
+	float: left;
+	position: relative;
+	margin-left: 30px;
+}
+.Dk6{
+	float: right;
+	position: relative;
+}
+.DXB{
+	width: 266px;
+	margin: 30px auto;
+	overflow: hidden;
+	color: #626262;
+	font-size: 12px;
+}
+.DXB div{
+	float: left;
+}
+.DSY{
+	padding:2px 4px;
+}
+.DSY:hover{
+	color: white;
+	background:#6e6e6e;
+}
+.DYM11,.DYM14{
+	margin-left:12px;
+}
+.DYM12{
+	line-height: 10px;
+}

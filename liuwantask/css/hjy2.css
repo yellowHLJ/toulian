@@ -1,0 +1,71 @@
+/*主体*/
+#hjyb{
+	width: 956px;
+	/*height: 558px;*/
+	margin:20px auto;
+	border: 1px solid #3c3c3c;
+	padding:20px 21px;
+}
+.hjb1{
+	font-size: 16px;
+}
+.hjb1,.hjb2{
+	font-weight: bold;
+	color: #3c3c3c;
+}
+.hjb2{
+	font-size: 14px;
+}
+.hjb3{
+	color: #6e6e6e;
+}
+.hjb4{
+	border-bottom: 1px dashed #3c3c3c;
+	padding-bottom: 11px;
+}
+.hjb5{
+	line-height: 34px;
+}
+.hjb6{
+	margin-top: 11px;
+}
+.hjb7{
+	padding-bottom: 11px;
+	border-bottom: 1px solid #3c3c3c;
+}
+.hjb8{
+	padding-top: 18px;
+}
+.hjb9{
+	padding-top: 16px;
+	padding-bottom: 15px;
+}
+.hjb10{
+	overflow: hidden;
+}
+.hjb10 span,.hjb10 textarea{
+	float: left;
+}
+.hjb10 span{
+	line-height: 38px;
+	border-top: 1px solid #b5b5b5;
+	border-right: 1px solid #b5b5b5;
+}
+.hjb11{
+	color: #fff;
+	background-color: #b5b5b5;
+	padding-right: 23px;
+	padding-left: 24px;
+}
+.hjb12{
+	padding-right: 7px;
+	padding-left: 7px;
+}
+.hjb13{
+	padding-right: 16px;
+	padding-left: 16px;
+}
+.hjb10 textarea{
+	width: 954px;
+	height: 239px;
+}

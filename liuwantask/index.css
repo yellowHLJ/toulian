@@ -1,0 +1,153 @@
+body{
+	min-width: 1533px;
+}
+#d14{
+	height: 783px;
+	background: url(img/lf.png) center top;
+	margin-top: -6px;
+	position: relative;
+}
+#d15{
+	background: #023d4d;
+	color: white;
+	text-align: center;
+	font-size: 30px;
+}
+/*第二部分*/
+#d16{
+	background: url(img/lg.png) center top;
+	padding:205px 0 208px 0;
+}
+#d17{
+	width: 1533px;
+	overflow: hidden;
+	margin: 0 auto;
+}
+#d17 p{
+	width: 315px;
+	padding: 12px 0 0 19px;
+}
+.d18{
+	font-size: 18px;
+}
+.d19{
+	font-size: 16px;
+	color: gray;
+}
+#d17 div{
+	width: 362px;
+	background: white;
+	float:left;
+	margin-left:23px; 
+	padding-bottom: 31px;
+}
+#d17 img{
+	margin-left: -11px;
+}
+#d17 #d20{
+	margin-left: 5px;
+}
+#d17 .d21{
+	margin-left: -9px;
+}
+ #d17 #d22{
+	color: white;
+	border:2px solid white;
+	border-radius: 5px;
+	width: 123px;
+	float: right;
+	font-size: 16px;
+	text-align: center;
+	line-height: 30px;
+	margin: 50px 11px 0 0;
+}
+/*第三部分*/
+#d23{
+	background: url(img/ll.png) center top;
+	height: 828px;
+	border-bottom: 1px solid white;
+	overflow: hidden;
+}
+#d24{
+	float: right;
+	margin:146px 240px 0 0;
+	border-radius: 5px;
+	background: #348ba2;
+}
+#d25{
+	background: #023c4d;
+	overflow: hidden;
+	border-bottom: 1px solid #003344;
+	border-radius: 5px 5px 0 0;
+}
+#d26{
+	color: white;
+	font-size: 20px;
+	float: left;
+	margin-left: 18px;
+	line-height: 30px;	
+}
+#d27{
+	float: right;
+	margin-right: 10px;
+	vertical-align: middle;
+}
+#d28{
+	padding: 11px 28px 15px 25px;
+	color: white;
+	font-size: 15px;
+	background: #348ba2;
+	border-radius: 5px;
+}
+#d29{
+	width: 370px;
+}
+#d30{
+	border :1px solid white;
+	width: 78px;
+	text-align: center;
+	line-height: 25px;
+	border-radius: 5px;
+	margin-top: 10px;
+}
+/*第四部分*/
+#d31{
+	background: #023c4d;
+	padding: 5px 0;
+}
+#d32{
+	margin: 0 auto;
+	width: 1460px;
+	overflow: hidden;
+}
+#d33{
+	color: white;
+	border: 1px solid white;
+	width: 120px;
+	float: right;
+	text-align: center;
+	line-height:32px; 
+	border-radius: 5px;
+	margin-top: 120px;
+	margin-left: 15px;
+}
+#d32 img{
+	float: right;
+	margin:3px 10px 3px 0; 
+}
+#d34{
+	float: right;
+	overflow: hidden;
+	border: 2px solid white;
+	margin-right: 7px;
+}
+#d34 img{
+	margin: 0;
+	border:1px solid #023c4d;
+}
+/*第五部分*/
+#d35{
+	height: 900px;
+	background: url(img/ls.png) center top;
+}
+/*第六部分*/
